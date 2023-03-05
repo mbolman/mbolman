@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbolman
-- 👀 I’m interested in expanding my c++ knowledge
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in expanding my programming knowledge
+- 🌱 I’m currently learning c++, python and sql
 - Feel free to comment!
 - 📫 How to reach me: m.bolman@t-mobilethuis.nl
 
